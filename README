@@ -1,0 +1,9 @@
+******代码说明******
+
+主要代码：
+sdgcAPI.py：调用数地工厂API接口
+
+*************************************
+ocrAPI.py：直接调用百度API，能够实现OCR
+baiduSDK.py：通过SDK来调用百度API，能够实现OCR
+apiConfig.py：
